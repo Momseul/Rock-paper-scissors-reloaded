@@ -11,6 +11,7 @@ A backend project implementing a Rock Paper Scissors game using Express and Mong
 
 ## Project Structure
 
+´´´
 src/
 ├── modules/
 │ ├── game/
@@ -66,6 +67,7 @@ src/
 │ ├── integration/
 │ └── ...
 └── app.js
+´´´
 
 ## Setup and Installation
 
